@@ -1,6 +1,4 @@
 # Web-Crawlers
-Here's an updated version of the `README.md` with emojis and a greater emphasis on libraries and tools used:
-
 ---
 
 # 🕸️ Web Crawlers and Automation Projects
